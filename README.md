@@ -1,6 +1,6 @@
 # Machine Learning Fellowship Portfolio
 
-This repository contains six applied machine learning lab projects completed during the Break Through Tech AI Fellowship (Summer 2025). The projects cover the full machine learning pipeline, from business understanding and problem formulation to data exploration, feature engineering, modeling, and evaluation.
+This repository contains applied machine learning lab projects completed during the Break Through Tech AI Fellowship (Summer 2025). The projects cover the full machine learning pipeline, from business understanding and problem formulation to data exploration, feature engineering, modeling, and evaluation.
 
 ## Projects
 
