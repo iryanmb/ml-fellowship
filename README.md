@@ -4,28 +4,30 @@ This repository contains applied machine learning lab projects completed during 
 
 ## Projects
 
-- **Week1 - ML_Lifecycle**  
+- **Week1 - ML Lifecycle & Problem Formation**  
   Problem formulation and understanding the ML lifecycle using NumPy, Pandas, and Matplotlib.
 
-- **Week2 - Data_Exploration**  
-  Exploratory data analysis (EDA) on structured datasets; summary statistics, visualizations, and insights.
+- **Week2 - Data Preparation & Feature Engineering**  
+  Handling outliers and missing data; one-hot encoding categorical features; identifying correlations; bivariate visualizations; exploratory data analysis (EDA).
 
-- **Week3 - Feature_Engineering**  
-  Creating, selecting, and transforming features to improve machine learning models.
+- **Week3 - Decision Trees & K-Nearest Neighbors**  
+  Decision tree classifiers; K-nearest neighbors (KNN) classifiers; one-hot encoding with scikit-learn;  hyperparameter tuning; accuracy evaluation.
 
-- **Week4 - Model_Development**  
-  Building supervised learning models using scikit-learn, including classification and regression.
+- **Week4 - Logistic Regression From Scracth & Scikit-Learn**  
+  Implementing logistic regression from scratch; comparing custom implementation with scikit-learn’s LogisticRegression.
+  
+- **Week5 - Hyperparameter Tuning & Feature Selection**  
+  Logistic regression with hyperparameter tuning (GridSearchCV); evaluating models with precision-recall and ROC curves; AUC scores; feature selection (SelectKBest).
 
-- **Week5 - Model_Evaluation**  
-  Evaluating model performance using accuracy, precision, recall, F1-score, ROC curves, and confusion matrices.
-
-- **Week6 - Advanced_Topics**  
-  Exploring advanced topics such as ensemble methods, hyperparameter tuning, or interpretability (based on lab focus).
-
+- **Week6 - Regression & EnsembleMethods**  
+  Ensemble methods including stacking regressor, gradient boosted decision trees (GBDT), and random forest regressor; performance visualization and comparison.
 ## Tools and Libraries
 
-- Python, Jupyter Notebooks  
-- NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
+## Skills and Tools
+- **Programming & Libraries:** Python, Jupyter Notebooks, NumPy, Pandas, Matplotlib, Seaborn
+- **Supervised Learning Models:** Logistic Regression (custom + scikit-learn), Decision Tree Classifier, K-Nearest Neighbors (KNN), Linear Regression, Decision Tree Regressor, Random Forest Regressor, Gradient Boosted Decision Trees (GBDT), Stacking Regressor
+- **Data Preparation & Engineering:** One-hot encoding, handling missing data (dummy variables, imputation), handling outliers, feature selection (SelectKBest), train-test split, creating labeled datasets
+- **Model Evaluation & Tuning:** Accuracy, Precision, Recall, F1-score, ROC Curve, AUC, Precision-Recall Curve, Grid Search Cross-Validation (GridSearchCV), Hyperparameter tuning, Performance comparison
 
 ## About the Fellowship
 
